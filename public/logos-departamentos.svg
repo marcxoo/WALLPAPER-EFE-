@@ -4,7 +4,7 @@
   <defs>
     <style>
       .st0 {
-        font-family: Montserrat-Bold, Montserrat;
+        font-family: Poppins-Bold, Poppins;
         font-weight: 700;
       }
 
@@ -28,7 +28,7 @@
       }
 
       .st2 {
-        font-family: Montserrat-Medium, Montserrat;
+        font-family: Poppins-Medium, Poppins;
         font-weight: 500;
       }
     </style>
