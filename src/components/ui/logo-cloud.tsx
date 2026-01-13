@@ -77,7 +77,7 @@ export default function LogoCloud() {
                     color: 'white',
                     border: 'none',
                     cursor: 'pointer',
-                    fontFamily: 'Montserrat, sans-serif',
+                    fontFamily: 'Poppins, sans-serif',
                     fontWeight: 500
                 }}
             >
