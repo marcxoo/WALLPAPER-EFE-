@@ -45,7 +45,7 @@ export default function LogoCloud() {
                    Contenedor central con ancho restringido al 85% para respetar márgenes.
                    Usamos overflow-hidden para recortar los laterales limpiamente.
                 */}
-                <div className="w-[85%] max-w-[90%] overflow-hidden relative" style={{ transform: 'translateY(-5px)' }}>
+                <div className="w-[85%] max-w-[90%] overflow-hidden relative" style={{ transform: 'translateY(-11px)' }}>
                     <BlurredInfiniteSlider
                         speedOnHover={20}
                         speed={40}
